@@ -2,7 +2,7 @@
 
 This project analyzes customer reviews of Emirates Airlines using data from Kaggle and visualizes key insights through an interactive Tableau dashboard.
 
-## 📊 Project Overview
+## Project Overview
 
 The goal of this project was to identify patterns in customer satisfaction based on various factors such as:
 
@@ -12,26 +12,26 @@ The goal of this project was to identify patterns in customer satisfaction based
 - **Specific service ratings** (Staff Service, Food, etc.)
 - **Overall rating trends**
 
-## 🔍 Key Insights
+## Key Insights
 
 - Boeing 777-300ER received the **highest average overall rating**
 - A380-800 scored the **highest for food quality**
 - Ratings vary significantly by travel class and travel purpose
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Excel** – for initial data cleaning and preparation  
 - **Tableau** – for building the final interactive dashboard
 
-## 🌐 Live Dashboard
+## Live Dashboard
 
 🔗 [View on Tableau Public](https://public.tableau.com/app/profile/stephina.smily.c/viz/EmiratesReviewViz/Dashboard1)
 
-## 📁 Dataset
+## Dataset
 
 - Source: [Kaggle - Emirates Airline Reviews](https://www.kaggle.com/datasets/kalyani007/emirates-airline-customer-reviews-2016-2024)
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - Data cleaning and transformation  
 - Dashboard design in Tableau  
